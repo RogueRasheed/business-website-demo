@@ -19,16 +19,16 @@ export default function Contact() {
           <div className="space-y-6">
             <div className="flex items-center space-x-4">
               <Mail className="w-6 h-6 text-blue-600" />
-              <span className="text-gray-700">hello@heedconsults.com</span>
+              <span className="text-gray-700">heedzone@gmail.com</span>
             </div>
             <div className="flex items-center space-x-4">
               <Phone className="w-6 h-6 text-blue-600" />
-              <span className="text-gray-700">+234 800 123 4567</span>
+              <span className="text-gray-700">+234 901 220 7033</span>
             </div>
             <div className="flex items-center space-x-4">
               <MapPin className="w-6 h-6 text-blue-600" />
               <span className="text-gray-700">
-                123 Business Street, Lagos, Nigeria
+                FCT Abuja, Nigeria 
               </span>
             </div>
           </div>

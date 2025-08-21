@@ -1,6 +1,6 @@
 // src/components/ServicesPreview.jsx
 import React from "react";
-import { services } from "../utils/services";
+import { services } from "../../utils/services";
 import { Link } from "react-router-dom";
 
 export default function ServicesPreview() {

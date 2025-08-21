@@ -1,6 +1,6 @@
 // components/HomepageServices.jsx
 import React from "react";
-import { services } from "../utils/services";
+import { services } from "../../utils/services";
 
 export default function HomepageServices() {
   return (

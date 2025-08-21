@@ -1,6 +1,6 @@
 // pages/Services.jsx (JSX)
 import React, { useState } from "react";
-import { services } from "../utils/services";
+import { services } from "../../utils/services";
 
 function ServiceImage({ src, alt, FallbackIcon }) {
   const [error, setError] = useState(false);
